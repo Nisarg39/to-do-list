@@ -1,11 +1,11 @@
-# Todo list app
-A todo list app
 
+# To-Do-List
 
-### General steps to follow when creating a project
+Basic to-do-list using complete vanilla Js .
 
-- Thinking about the UI
-- Functionality
+Deployed - https://nisarg39.github.io/to-do-list/
+
+### Functionality
 	- Add a TODO
 	- Delete a TODO
 	- check task
@@ -19,3 +19,40 @@ A todo list app
 	- checkTodo
 	- renderTodosList
 	- showNotification
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Nisarg39/habit-tracker-mern
+```
+
+Go to the project directory
+
+```bash
+  cd habit-tracker-react
+```
+
+Open index.html and the site will be running locally
+
+```bash
+	Remember that the data is stored in array . so all the task will be removed once the page is refreshed
+```
+
+## FileStructure
+
+```
+📦 
+.DS_Store
+README.md
+├─ bin.png
+├─ index.html
+├─ styles.css
+└─ todo.js
+```
+
+
+## Authors
+
+- [@Nisarg39](https://github.com/Nisarg39)
